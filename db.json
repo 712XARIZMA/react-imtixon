@@ -1,0 +1,124 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Toyota",
+      "model": "Camry",
+      "year": "2022",
+      "price": "28000",
+      "img": "https://source.unsplash.com/featured/?toyota"
+    },
+    {
+      "id": "3",
+      "name": "BMW",
+      "model": "M5",
+      "year": "2023",
+      "price": "70000",
+      "img": "https://source.unsplash.com/featured/?bmw"
+    },
+    {
+      "id": "4",
+      "name": "Mercedes",
+      "model": "e-Class",
+      "year": "2023",
+      "price": "65000",
+      "img": "https://source.unsplash.com/featured/?mercedes"
+    },
+    {
+      "id": "5",
+      "name": "Audi",
+      "model": "A6",
+      "year": "2021",
+      "price": "60000",
+      "img": "https://source.unsplash.com/featured/?audi"
+    },
+    {
+      "id": "6",
+      "name": "Kia",
+      "model": "Sportage",
+      "year": "2022",
+      "price": "27000",
+      "img": "https://source.unsplash.com/featured/?kia"
+    },
+    {
+      "id": "7",
+      "name": "Hyundai",
+      "model": "Sonata",
+      "year": "2023",
+      "price": "29000",
+      "img": "https://source.unsplash.com/featured/?hyundai"
+    },
+    {
+      "id": "8",
+      "name": "Ford",
+      "model": "Mustang",
+      "year": "2023",
+      "price": "50000",
+      "img": "https://source.unsplash.com/featured/?mustang"
+    },
+    {
+      "id": "9",
+      "name": "Chevrolet",
+      "model": "Malibu",
+      "year": "2021",
+      "price": "24000",
+      "img": "https://source.unsplash.com/featured/?chevrolet"
+    },
+    {
+      "id": "10",
+      "name": "Lexus",
+      "model": "RX",
+      "year": "2022",
+      "price": "55000",
+      "img": "https://source.unsplash.com/featured/?lexus"
+    },
+    {
+      "id": "11",
+      "name": "Nissan",
+      "model": "Altima",
+      "year": "2022",
+      "price": "26000",
+      "img": "https://source.unsplash.com/featured/?nissan"
+    },
+    {
+      "id": "16",
+      "name": "Jeep",
+      "model": "Wrangler",
+      "year": "2022",
+      "price": "40000",
+      "img": "https://source.unsplash.com/featured/?jeep"
+    },
+    {
+      "id": "17",
+      "name": "Dodge",
+      "model": "Charger",
+      "year": "2021",
+      "price": "37000",
+      "img": "https://source.unsplash.com/featured/?dodge"
+    },
+    {
+      "id": "18",
+      "name": "Porsche",
+      "model": "911",
+      "year": "2023",
+      "price": "90000",
+      "img": "https://source.unsplash.com/featured/?porsche"
+    },
+    {
+      "id": "19",
+      "name": "Ferrari",
+      "model": "F8",
+      "year": "2022",
+      "price": "230000",
+      "img": "https://source.unsplash.com/featured/?ferrari"
+    },
+    {
+      "id": "20",
+      "name": "Lamborghini",
+      "model": "Huracan",
+      "year": "2023",
+      "price": "250000",
+      "img": "https://source.unsplash.com/featured/?lamborghini"
+    }
+  ]
+}
