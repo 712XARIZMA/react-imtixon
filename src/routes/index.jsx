@@ -14,5 +14,6 @@ export const route = createBrowserRouter([
   { path: "/teachers", element: <Teachers /> },
   { path: "/notfound", element: <Notfound /> },
   { path: "/addteacher", element: <Addteacher /> },
+  { path: "/teacherdata", element: <TeacherData /> },
   { path: "/teacherdata/:id", element: <TeacherData /> },
 ]);
