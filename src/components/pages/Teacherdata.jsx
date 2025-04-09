@@ -102,30 +102,30 @@ const TeacherData = () => {
               <div className="flex flex-col gap-3">
                 <h1 className="">
                   EMAIL :{" "}
-                  <h3 className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
+                  <p className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
                     {teacher?.email}
-                  </h3>
+                  </p>
                 </h1>
                 <h1 className="">
                   PASSWORD :{" "}
-                  <h3 className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
+                  <p className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
                     {" "}
                     {teacher?.password}
-                  </h3>
+                  </p>
                 </h1>
                 <h1 className="">
                   ROLE :{" "}
-                  <h3 className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
+                  <p className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
                     {" "}
                     {teacher?.role}
-                  </h3>
+                  </p>
                 </h1>
                 <h1 className="">
                   CREEATED AT :{" "}
-                  <h3 className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
+                  <p className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
                     {" "}
                     {teacher?.createdAt}
-                  </h3>
+                  </p>
                 </h1>
                 <div className="flex gap-6">
                   <div className="w-15 h-15 flex items-center justify-center bg-[#47546c] rounded">
