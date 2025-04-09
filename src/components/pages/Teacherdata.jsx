@@ -121,7 +121,7 @@ const TeacherData = () => {
                   </p>
                 </h1>
                 <h1 className="">
-                  CREEATED AT :{" "}
+                  CREATED AT :{" "}
                   <p className="font-medium text-[14px] leading-[131%] text-[#A7A7A7]">
                     {" "}
                     {teacher?.createdAt}

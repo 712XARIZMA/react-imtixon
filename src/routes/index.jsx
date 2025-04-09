@@ -5,7 +5,7 @@ import Dashboard from "../components/pages/Dashboard";
 import Teachers from "../components/pages/Teachers";
 import Notfound from "../components/pages/Notfound";
 import Addteacher from "../components/pages/Addteacher";
-import TeacherData from "./components/pages/Teacherdata";
+import TeacherData from "../components/pages/TeacherData";
 
 export const route = createBrowserRouter([
   { path: "/", element: <Login /> },

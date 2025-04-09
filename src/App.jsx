@@ -17,7 +17,7 @@ import TeacherData from "./components/pages/TeacherData";
 const isAuth = () => localStorage.getItem("token") !== null;
 
 const ProtectedRoute = ({ children }) => {
-  return isAuth() ? children : <Navigate to="/login" />;
+  return isAuth() ? children : <Navigate to="/" />;
 };
 
 const Navbar = () => {
@@ -31,7 +31,7 @@ const Navbar = () => {
   const handleLogout = () => {
     localStorage.removeItem("token");
     setAuthenticated(false);
-    navigate("/login");
+    navigate("/");
   };
 };
 
@@ -47,7 +47,7 @@ const App = () => {
           }
         />
 
-        <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/notfound" element={<NotFound />} />
 
