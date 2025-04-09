@@ -229,8 +229,8 @@ const Addteacher = () => {
                       id="isVerified"
                       value={is_verified}
                     >
-                      <option value="true">True</option>
                       <option value="false">False</option>
+                      <option value="true">True</option>
                     </select>
                   </label>
                   <label
