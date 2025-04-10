@@ -18,7 +18,7 @@ function Login() {
       .then((res) => {
         console.log(res.data);
 
-        localStorage.setItem("token", res.data.access);
+        localStorage.setItem("token", res.data.accessToken);
         navigate("/dashboard");
       });
   }
